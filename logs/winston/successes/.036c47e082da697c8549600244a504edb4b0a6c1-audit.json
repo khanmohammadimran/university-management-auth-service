@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\.036c47e082da697c8549600244a504edb4b0a6c1-audit.json",
+    "files": [
+        {
+            "date": 1686626279558,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-13-06-09-success.log",
+            "hash": "af047d87ad8087ed2c8b85cf35acd51f2eb7e1bb03f3a74a43568f0ce10479d3"
+        },
+        {
+            "date": 1686629784800,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-13-06-10-success.log",
+            "hash": "8e820a8bd8e9b621d128cf8a3f02176d4b989b2bb6fe0bac805a13d6e42995dc"
+        },
+        {
+            "date": 1686632717093,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-13-06-11-success.log",
+            "hash": "0f73071f10e990e8ae8f95b7faad8ad44dbab080d20350579598dc09a05a293f"
+        },
+        {
+            "date": 1686755896161,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-14-06-21-success.log",
+            "hash": "4a242ce87982680ebb57d04b39aa90c6ef878c7ac130e92faa8a5a4a6a20878e"
+        },
+        {
+            "date": 1686783339100,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-04-success.log",
+            "hash": "dae05b338d67f29b63c7dcf069eb30c4370ba3c2c6e7d09a1df28535f032b489"
+        },
+        {
+            "date": 1686783631523,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-05-success.log",
+            "hash": "138cd2f0ae812399cbe10c3b9a5edeb42e3c3e9697b5eab7b27e80d1c68956b2"
+        },
+        {
+            "date": 1686797920908,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-08-success.log",
+            "hash": "6d68dbb03f64391c65f2fdb3e360bf040a32dffd87d77f578e567588360fddc4"
+        },
+        {
+            "date": 1686815060215,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-13-success.log",
+            "hash": "f15305e27172e2f01ad4813f883d9fee517f2361c88152b03df21cc63f9eb190"
+        },
+        {
+            "date": 1686816061503,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-14-success.log",
+            "hash": "5ecf34620ea271174199c4291145041ddedac2b5dee166f589bb7a7da29a625d"
+        },
+        {
+            "date": 1686820519136,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-15-success.log",
+            "hash": "9d16064b723a8aea0202ed70eb404e866ef87f86f3854f276cf4938698fd5579"
+        },
+        {
+            "date": 1687062560249,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-10-success.log",
+            "hash": "d5684b908770b66b1819743073397f62c55e9985d3ee9ce3dfbb55eee7deacbd"
+        },
+        {
+            "date": 1687065015271,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-11-success.log",
+            "hash": "666ca3f539547ff2fc83f83f91fe3c0308bd8d9ce992b5eab5d15a9eb363ddc5"
+        }
+    ],
+    "hashType": "sha256"
+}

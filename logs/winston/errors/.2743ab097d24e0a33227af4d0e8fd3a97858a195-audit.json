@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\errors\\.2743ab097d24e0a33227af4d0e8fd3a97858a195-audit.json",
+    "files": [
+        {
+            "date": 1686755896165,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\errors\\phu-2023--14-06--21-error.log",
+            "hash": "230615f34c34f53a8f0b700536e822270b8d553a399a1b37bc71f0807a1214bd"
+        },
+        {
+            "date": 1686783339108,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\errors\\phu-2023--15-06--04-error.log",
+            "hash": "761b9b959cb7f80c3c537e4885b5d1456207b38ab0488fb2f49682f3e6d7fc1b"
+        },
+        {
+            "date": 1686783631526,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\errors\\phu-2023--15-06--05-error.log",
+            "hash": "890d006115684de0613b40d6b1466937b1bfbe850603fc2726360f3048e1e801"
+        },
+        {
+            "date": 1686797920916,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\errors\\phu-2023--15-06--08-error.log",
+            "hash": "db18e69b2dbdc2db9b48fae1e7cfb2ff143602cc3d3e4783f403b1bdc986aa71"
+        },
+        {
+            "date": 1686798011165,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\errors\\phu-2023--15-06--09-error.log",
+            "hash": "31e917d3619d0f892cff22e9128ea7cb90ef03255463013c0f462058c1d7f4bd"
+        },
+        {
+            "date": 1686815060223,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\errors\\phu-2023--15-06--13-error.log",
+            "hash": "c76b53935a1127d74e4da6ddfecd2486c6cbb7aad326e74c93e98824eb6815ea"
+        },
+        {
+            "date": 1686816061505,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\errors\\phu-2023--15-06--14-error.log",
+            "hash": "bd1d0620c9125a21e35362d24381c2d347c6ebf6283bd019da9deeab3d30d5af"
+        },
+        {
+            "date": 1686820519139,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\errors\\phu-2023--15-06--15-error.log",
+            "hash": "c8e81fed625b367ef5f89f81435ea5548bc1e0cea889cd174086a34731de7378"
+        },
+        {
+            "date": 1687062560256,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\errors\\phu-2023--18-06--10-error.log",
+            "hash": "c621a458c61756ae08d3f1f4e45a93a0270331ca21dfa4282c92877e14ff25d0"
+        },
+        {
+            "date": 1687065015274,
+            "name": "D:\\Programming Hero\\Next Level Development\\Practise Work\\university-management-auth-service\\logs\\winston\\errors\\phu-2023--18-06--11-error.log",
+            "hash": "de88b21e472f892c768e5be450317aa7a1dc588c70ad99ed26db33e2071f6ac9"
+        }
+    ],
+    "hashType": "sha256"
+}
