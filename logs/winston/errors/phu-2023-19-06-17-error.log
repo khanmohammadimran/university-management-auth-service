@@ -1,0 +1,13 @@
+Mon Jun 19 2023 17:27:58 } [PH] error: Cast to ObjectId failed for value "create-faculty" (type string) at path "_id" for model "AcademicFaculty"
+Mon Jun 19 2023 17:34:56 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "academicFaculty"
+    ],
+    "message": "Academic Faculty is required"
+  }
+]
