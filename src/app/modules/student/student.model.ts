@@ -124,7 +124,7 @@ export const StudentSchema = new Schema<IStudent, StudentModel>(
       required: true,
     },
     academicSemester: {
-      type: Schema.Types.ObjectId, // academicSemester --> _id
+      type: Schema.Types.ObjectId,
       ref: 'AcademicSemester',
       required: true,
     },
